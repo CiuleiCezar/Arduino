@@ -1,5 +1,5 @@
 # Proiect_PMP
-## Parallel Parcking! Parallel Parcking using Arduino Uno, L298 Dual H-Bridge and Ultrasonic Ranging Module HC - SR04.
+## Parallel Parking! Parallel Parcking using Arduino Uno, L298 Dual H-Bridge and Ultrasonic Ranging Module HC - SR04.
      
 First step in rebranding Google Chrome!
 
